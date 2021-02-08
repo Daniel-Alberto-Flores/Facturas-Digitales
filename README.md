@@ -2,9 +2,9 @@
 
 <div>
 <p>We can use this for</p>
-        <p>---> Convert files from PDF to JPG</p>        
-        <p>---> Upload JPG files</p>
-        <p>---> Rename files and copy to file server</p> 
+        <p>---> Convert files from PDF to JPG.</p>        
+        <p>---> Upload JPG files.</p>
+        <p>---> Rename files and copy to file server.</p> 
 </div>
 
 <p align="center">
